@@ -1,0 +1,13 @@
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\bin\Debug\Nube de palabras.exe.config
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\bin\Debug\Nube de palabras.exe
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\bin\Debug\Nube de palabras.pdb
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\obj\Debug\Nube de palabras.csprojAssemblyReference.cache
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\obj\Debug\Nube_de_palabras.Compartir.resources
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\obj\Debug\Nube_de_palabras.Estudiante.resources
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\obj\Debug\Nube_de_palabras.Respuestas.resources
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\obj\Debug\Nube_de_palabras.PantallaProfesor.resources
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\obj\Debug\Nube_de_palabras.Properties.Resources.resources
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\obj\Debug\Nube de palabras.csproj.GenerateResource.cache
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\obj\Debug\Nube de palabras.csproj.CoreCompileInputs.cache
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\obj\Debug\Nube de palabras.exe
+C:\Users\WinID\source\repos\Nube de palabras\Nube de palabras\obj\Debug\Nube de palabras.pdb
